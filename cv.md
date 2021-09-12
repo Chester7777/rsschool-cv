@@ -8,7 +8,7 @@
 
 Email: Es18.03.88@gmail.com!
 
-Telegram: @CHES7777
+Telegram: [@CHES7777](https://t.me/CHES7777)
 
 GitHub: [https://github.com/Chester7777](https://github.com/Chester7777)
 
@@ -27,15 +27,16 @@ I usually spend my free time on Codewars, English and sports.
 * React
 * Redux
 * Type Script
-*THUNK/ REDUX-SAGA/WEBSOCKET
-*NODEJS /SMTP
-*ANT DESIGN/MATERIAL-UI
-*UNIT TESTS/ STORYBOOK/ SNAPSHOT TESTING
-*GIT/ JIRA/ATLASSIAN CONFLUENCE
+* THUNK/ REDUX-SAGA/WEBSOCKET
+* NODEJS /SMTP
+* ANT DESIGN/MATERIAL-UI
+* UNIT TESTS/ STORYBOOK/ SNAPSHOT TESTING
+* GIT/ JIRA/ATLASSIAN CONFLUENCE
 
 ## Code Example
 
 >//my map
+> 
 > let a = [1, 5, 100, -6]
 >
 > Array.prototype.myMap = function (callback) {
@@ -57,7 +58,7 @@ Development of the front-end part of the project using the libraries react, redu
 Working with hooks, TS, bug fixing, creating a registration form, login, search. Teamwork.
 
 ### Education
-* **Rolling Scopes School** - 2021 - Front-end developer (React/Redux/TS) 
+* **Rolling Scopes School** - 2021 - Front-end developer (JS/React) 
 * **IT-INCUBATOR** – 2020-2021 - Front-end developer (React/Redux/TS) 
 * **SoloLEARN**  – 2018/2020 - HTML/CSS
 * **English courses**, National Security Institute – 2016-2017
@@ -66,6 +67,6 @@ Working with hooks, TS, bug fixing, creating a registration form, login, search.
 
 ## Languages
 
-* English - pre Intermediate
+* English - pre Intermediate in progress
 * German - Elementary
 
