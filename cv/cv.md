@@ -1,7 +1,7 @@
-# Evgeny Chausov!
+# Evgeny Chausov
 
 
-![my-photo](images/photo.jpg)
+![my-photo](../images/photo.jpg)
 
 
 ### Contacts
