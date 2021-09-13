@@ -1,7 +1,7 @@
-# Evgeny Chausov!
+# Evgeny Chausov
 
 
-![my-photo](images/photo.jpg)
+![my-photo](../assets/photo.jpg)
 
 
 ### Contacts
@@ -27,7 +27,7 @@ I usually spend my free time on Codewars, English and sports.
 * React
 * Redux
 * Type Script
-* THUNK/ REDUX-SAGA/WEBSOCKET
+* REDUX-THUNK/SAGA/WEBSOCKET
 * NODEJS /SMTP
 * ANT DESIGN/MATERIAL-UI
 * UNIT TESTS/ STORYBOOK/ SNAPSHOT TESTING
@@ -54,7 +54,7 @@ I usually spend my free time on Codewars, English and sports.
 *Freelance, Dental clinic - Oct, 2020
 
 The Healthcare Project, a desktop application for dentistry. 
-Development of the front-end part of the project using the libraries react, redux, react-redux, redux-thunk/thaga, axios, formik, redux-toolkit, material-UI. 
+Development of the front-end part of the project using the libraries react, redux, react-redux, redux-thunk/saga, axios, formik, redux-toolkit, material-UI. 
 Working with hooks, TS, bug fixing, creating a registration form, login, search. Teamwork.
 
 ### Education
