@@ -67,6 +67,6 @@ Working with hooks, TS, bug fixing, creating a registration form, login, search.
 
 ## Languages
 
-* English - pre Intermediate in progress
+* English - Intermediate
 * German - Elementary
 
